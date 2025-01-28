@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **GIS , React Native, FME , python .**
 
-- 📫 How to reach me **a.babioui@bimdiag.tech**
+- 📫 How to reach me **a.babioui@makeplan.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
